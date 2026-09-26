@@ -18,7 +18,6 @@ pnpm-debug.log*
 .cache/
 .nyc_output/
 coverage/
-dist/
 build/
 out/
 
